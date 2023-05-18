@@ -4,8 +4,8 @@
     width="1000" height="225" />
 
 <!-- Info -->
-<h1 align="center">Hi there 👋, I'm Diptodeep </h1>
-<h3 align="center">An amateur, passionate developer from India. </h3>
+<h1 align="center"> Hi there 👋, I'm Diptodeep </h1>
+<h3 align="center"> An amateur, passionate developer from India. </h3>
 
 <!-- Illustration -->
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
@@ -21,13 +21,13 @@
 <h3 align="left"> About Me </h3>
 <p align="left">
 
-    • 👨‍💻 I'm currently working on: **A Multipurpose Discord Bot Project.**
+• 👨‍💻 I'm currently working on: **A Multipurpose Discord Bot Project.**
 
-    • 🤝 I'm open to collaborating on: **Open Source Projects.**
+• 🤝 I'm open to collaborating on: **Open Source Projects.**
 
-    • 🎓 I'm currently learning: **Data Structures & Algorithms.**
+• 🎓 I'm currently learning: **Data Structures & Algorithms.**
 
-    • 👤 Pronouns: **He/Him.**
+• 👤 Pronouns: **He/Him.**
 </p>
 
 <!-- Connect with Me -->
