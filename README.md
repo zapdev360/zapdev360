@@ -31,7 +31,7 @@
 </p>
 
 <!-- Connect with Me -->
-<h3 align="left"> 📬 | Connect with Me </h3>
+<h3 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="40" height="25"> | Connect with Me </h3>
 <p align="left">
     <a href="https://discord.com/users/816250247616659489" target="blank">
         <img align="center"
