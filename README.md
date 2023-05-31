@@ -4,7 +4,7 @@
     width="1000" height="225" />
 
 <!-- Info -->
-<h1 align="center"> Hi there 👋, I'm Diptodeep </h1>
+<h1 align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" />, I'm Diptodeep </h1>
 <h3 align="center"> An amateur, passionate developer from India. </h3>
 
 <!-- Illustration -->
@@ -18,7 +18,7 @@
     </p>
 
 <!-- About Me -->
-<h3 align="left"> About Me </h3>
+<h3 align="left"> 🙋‍♂️ | About Me </h3>
 <p align="left">
 
 • 👨‍💻 I'm currently working on: **A Multipurpose Discord Bot Project.**
@@ -31,7 +31,7 @@
 </p>
 
 <!-- Connect with Me -->
-<h3 align="left"> Connect with Me </h3>
+<h3 align="left"> 📬 | Connect with Me </h3>
 <p align="left">
     <a href="https://discord.com/users/816250247616659489" target="blank">
         <img align="center"
@@ -45,8 +45,8 @@
         </a>
 </p>
 
-<!-- My Expertise -->
-<h3 align="left"> My Expertise </h3>
+<!-- My Tech Stack -->
+<h3 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35" /> | My Tech Stack </h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img
@@ -81,7 +81,7 @@
 </p>
 
 <!-- GitHub Stats -->
-<h3 align="left"> GitHub Stats </h3>
+<h3 align="left"> <img src='https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif' width='30' /> | GitHub Stats </h3>
 <p align="left">
 <p>&nbsp;
     <img align="center"
@@ -95,7 +95,7 @@
 </p>
 
 <!-- Quote of the Day -->
-<h3 align="left"> Quote of the Day </h3>
+<h3 align="left"> <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> | Quote of the Day </h3>
 <p align="left">
 <p>
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"
