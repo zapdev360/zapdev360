@@ -5,7 +5,7 @@
 
 <!-- Info -->
 <h1 align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" />, I'm Diptodeep </h1>
-<h3 align="center"> An amateur, passionate developer from India. </h3>
+<h3 align="center"> An amateur, passionate software developer from India. </h3>
 
 <!-- Illustration -->
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
