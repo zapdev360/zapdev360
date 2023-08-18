@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img align="center"
     src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=450&size=23&duration=2500&pause=1000&color=FF3C25&center=true&vCenter=true&width=450&lines=Developer+of+Nub+Bot+on+Discord;Open+Source+Enthusiast;2%2B+years+of+Coding+Experience"
-    width="1000" height="150" />
+    width="1000" height="100" />
 
 <!-- Info -->
 <h1 align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" />, this is Diptodeep </h1>
