@@ -5,18 +5,18 @@
     
 <hr>
 
-<!-- Status -->
+<!-- Status and Socials -->
 <table>
   <tr>
     <td>
       <img src="https://api.statusbadges.me/badge/status/211888560662511617?simple=true&style=for-the-badge" alt="Status" />
     </td>
     <td align="right">
-      <a href="https://discord.com/users/816250247616659489">
+      <a href="https://discord.com/users/816250247616659489" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="thelegendev" />
       </a>
-      <a href="mailto:testmail@gmail.com">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email testmail@gmail.com" />
+      <a href="mailto:developersalike@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email developersalike@gmail.com" />
       </a>
     </td>
   </tr>
@@ -52,6 +52,12 @@ def info():
   </div>
 </p>
 <br><br><br><br><br><br><br>
+
+<hr>
+
+<!-- Snake Animation -->
+
+![Snake animation](https://raw.githubusercontent.com/thelegendev/thelegendev/output/github-contribution-grid-snake-dark.svg)
 
 <hr>
 
