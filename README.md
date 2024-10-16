@@ -5,20 +5,38 @@
     
 <hr>
 
-![Status](https://api.statusbadges.me/badge/status/211888560662511617?simple=true&style=for-the-badge) &nbsp;
+<!-- Status -->
+<table>
+  <tr>
+    <td>
+      <img src="https://api.statusbadges.me/badge/status/211888560662511617?simple=true&style=for-the-badge" alt="Status" />
+    </td>
+    <td align="right">
+      <a href="https://discord.com/users/816250247616659489">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="thelegendev" />
+      </a>
+      <a href="mailto:testmail@gmail.com">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email testmail@gmail.com" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-```
-Pronouns: He/Him
-Location: India
-Languages: Python, Javascript
-Frontend: HTML, CSS
-Backend: Node.js
-Databases: MySQL, MongoDB
-Learning: DSA, AI/ML
-```
+<!-- Info -->
+```py
+def info():
+    pronouns = 'He/Him'
+    location = 'India'
+    languages = ['Python', 'Javascript']
+    frontend = ['HTML', 'CSS']
+    backend = ['Node.js']
+    databases = ['MySQL', 'MongoDB']
+    learning = ['DSA', 'AI/ML']
+``` 
 
 <hr>
 
+<!-- Stats -->
 <p align=center>
 
   <div align=center>
@@ -34,10 +52,12 @@ Learning: DSA, AI/ML
   </div>
 </p>
 <br><br><br><br><br><br><br>
+
 <hr>
+
 <!-- Profile Views -->
-<p align="left"> 
+<div align="left"> 
     <img
         src="https://komarev.com/ghpvc/?username=thelegendev&label=Profile%20views&color=0e75b6&style=flat"
         alt="ProfileViews" /> 
-    </p>
+</div>
