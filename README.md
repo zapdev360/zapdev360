@@ -41,7 +41,7 @@ def info():
       <img width="420px" height="170px" src="https://github-readme-stats.vercel.app/api?username=thelegendev&show_icons=true&theme=react&hide_border=true" />
       <img width="375px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelegendev&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" />
     <img width="420px" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=thelegendev&theme=react&hide_border=true" />
-    <img width="430px" height="170px" src="https://github-readme-activity-graph.vercel.app/graph?username=thelegendev&theme=react&hide_border=true" >
+    <img width="420px" height="170px" src="https://github-readme-activity-graph.vercel.app/graph?username=thelegendev&theme=react&hide_border=true" >
 </div>
 
 <hr>
