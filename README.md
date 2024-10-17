@@ -38,12 +38,10 @@ def info():
 
 <!-- Stats -->
 <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="420px" src="https://github-readme-stats.vercel.app/api?username=thelegendev&show_icons=true&theme=react&border_color=61dafb&hide_border=false" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="375px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelegendev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false&size_weight=0.5&count_weight=0.5" />
-    </a>
+      <img width="420px" height="170px" src="https://github-readme-stats.vercel.app/api?username=thelegendev&show_icons=true&theme=react&hide_border=true" />
+      <img width="375px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelegendev&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    <img width="420px" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=thelegendev&theme=react&hide_border=true" />
+    <img width="430px" height="170px" src="https://github-readme-activity-graph.vercel.app/graph?username=thelegendev&theme=react&hide_border=true" >
 </div>
 
 <hr>
