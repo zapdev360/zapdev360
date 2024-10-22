@@ -24,15 +24,16 @@
 
 <!-- Info -->
 ```py
-def info():
-    pronouns = 'He/Him'
-    location = 'India'
-    languages = ['Python', 'Javascript']
-    frontend = ['HTML', 'CSS']
-    backend = ['Node.js']
-    databases = ['MySQL', 'MongoDB']
-    learning = ['DSA', 'AI/ML']
-``` 
+class info:
+    def __init__(self):
+        self.pron = ['he/him']
+        self.loc = ['India']
+        self.lang = ['py','js']
+        self.front = ['html','css']
+        self.back = ['node.js']
+        self.db = ['mysql','mongodb']
+        self.learning = ['ai/ml','dsa']
+```
 
 <hr>
 
