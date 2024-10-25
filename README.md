@@ -22,6 +22,7 @@
   </tr>
 </table>
 
+## About Me
 <!-- Info -->
 ```py
 class info:
@@ -37,6 +38,7 @@ class info:
 
 <hr>
 
+## My Stats
 <!-- Stats -->
 <div>
       <img width="420px" height="170px" src="https://github-readme-stats.vercel.app/api?username=thelegendev&show_icons=true&theme=react&hide_border=true" />
