@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://api.statusbadges.me/badge/status/211888560662511617?simple=true&style=for-the-badge" alt="Status" />
+      <img src="https://img.shields.io/badge/Brainstorming-%F0%9F%92%A2%20Let%27s%20Think%20About%20It-blue" width=300px height=30px alt="Brainstorming">
     </td>
     <td align="right">
       <a href="https://discord.com/users/816250247616659489" target="_blank" rel="noopener noreferrer">
