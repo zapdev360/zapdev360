@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Brainstorming-%F0%9F%92%A2%20Let%27s%20Think%20About%20It-blue" width=300px height=30px alt="Brainstorming">
+      <img src="https://api.statusbadges.me/badge/status/211888560662511617?simple=true&style=for-the-badge" alt="Status" />
     </td>
     <td align="right">
       <a href="https://discord.com/users/816250247616659489" target="_blank" rel="noopener noreferrer">
@@ -38,7 +38,7 @@ class info:
 
 <hr>
 
-## My Stats
+## Stats
 <!-- Stats -->
 <div>
       <img width="420px" height="170px" src="https://github-readme-stats.vercel.app/api?username=thelegendev&show_icons=true&theme=react&hide_border=true" />
@@ -46,6 +46,14 @@ class info:
     <img width="420px" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=thelegendev&theme=react&hide_border=true" />
     <img width="400px" height="170px" src="https://github-readme-activity-graph.vercel.app/graph?username=thelegendev&theme=react&hide_border=true" >
 </div>
+
+<hr>
+
+## Badges
+<!-- Badges -->
+<a href="https://holopin.io/@thelegendev">
+    <img src="https://holopin.me/thelegendev" alt="An image of @thelegendev's Holopin badges, which is a link to view their full Holopin profile" width="800" height="250">
+</a>
 
 <hr>
 
