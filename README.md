@@ -60,12 +60,3 @@ class info:
 <!-- Snake Animation -->
 
 ![Snake animation](https://raw.githubusercontent.com/zapdev360/zapdev360/output/github-contribution-grid-snake-dark.svg)
-
-<hr>
-
-<!-- Profile Views -->
-<div align="left"> 
-    <img
-        src="https://komarev.com/ghpvc/?username=zapdev360&label=Profile%20views&color=0e75b6&style=flat"
-        alt="ProfileViews" /> 
-</div>
