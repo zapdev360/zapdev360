@@ -13,7 +13,7 @@
     </td>
     <td align="right">
       <a href="https://discord.com/users/816250247616659489" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="thelegendev" />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="zapdev360" />
       </a>
       <a href="mailto:developersalike@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email developersalike@gmail.com" />
@@ -41,10 +41,10 @@ class info:
 ## Stats
 <!-- Stats -->
 <div>
-      <img width="420px" height="170px" src="https://github-readme-stats.vercel.app/api?username=thelegendev&show_icons=true&theme=react&hide_border=true" />
-      <img width="375px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelegendev&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    <img width="420px" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=thelegendev&theme=react&hide_border=true" />
-    <img width="400px" height="170px" src="https://github-readme-activity-graph.vercel.app/graph?username=thelegendev&theme=react&hide_border=true" >
+      <img width="420px" height="170px" src="https://github-readme-stats.vercel.app/api?username=zapdev360&show_icons=true&theme=react&hide_border=true" />
+      <img width="375px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapdev360&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    <img width="420px" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=zapdev360&theme=react&hide_border=true" />
+    <img width="400px" height="170px" src="https://github-readme-activity-graph.vercel.app/graph?username=zapdev360&theme=react&hide_border=true" >
 </div>
 
 <hr>
@@ -59,13 +59,13 @@ class info:
 
 <!-- Snake Animation -->
 
-![Snake animation](https://raw.githubusercontent.com/thelegendev/thelegendev/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/zapdev360/zapdev360/output/github-contribution-grid-snake-dark.svg)
 
 <hr>
 
 <!-- Profile Views -->
 <div align="left"> 
     <img
-        src="https://komarev.com/ghpvc/?username=thelegendev&label=Profile%20views&color=0e75b6&style=flat"
+        src="https://komarev.com/ghpvc/?username=zapdev360&label=Profile%20views&color=0e75b6&style=flat"
         alt="ProfileViews" /> 
 </div>
