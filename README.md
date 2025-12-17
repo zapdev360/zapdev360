@@ -30,7 +30,7 @@
 </p>
 
 <!-- Info -->
-## About Me
+## 👋 About Me
 I’m a B.Tech CSE student with 3+ years of programming experience, focused on backend development, security, and cloud fundamentals.
 
 I enjoy building practical projects, working in Linux environments, and understanding how systems behave beyond just the application layer. I’m also active in open source and interested in how secure, scalable software systems are designed.
@@ -50,7 +50,7 @@ class Developer:
 <hr>
 
 <!-- Stats -->
-## Stats
+## 📊 Statistics
 <div>
       <img width="410px" height="170px" src="https://github-readme-stats.vercel.app/api?username=zapdev360&show_icons=true&theme=react&hide_border=true" />
     <img width="375px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapdev360&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" />
@@ -58,8 +58,48 @@ class Developer:
 
 <hr>
 
+<!-- Certifications -->
+## 🎓 Certifications
+
+<ul>
+  <li>
+    <strong>
+      <a href="https://www.linkedin.com/learning/certificates/6fa029f449518998cf2fc35c99f4774936dc1a111403307027c05a84a80b432a?u=229219690"
+          target="_blank" rel="noopener noreferrer">
+        Ubuntu Linux Professional Certificate
+      </a>
+    </strong>
+    — Canonical
+  </li>
+  <li>
+    <strong>
+      <a href="https://www.coursera.org/account/accomplishments/verify/8XBK6AZFJF0I"
+          target="_blank" rel="noopener noreferrer">
+        Cyber Security Fundamentals
+      </a>
+    </strong>
+    — University of London
+  </li>
+  <li>
+    <strong>
+      <a href="https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs137/Course/NPTEL25CS137S106080640710469270.pdf"
+          target="_blank" rel="noopener noreferrer">
+        Programming with Generative AI
+      </a>
+    </strong>
+    — IISc (NPTEL)
+  </li>
+</ul>
+
+<p>
+  🔗 <strong>Credly Profile:</strong>
+  <a href="https://www.credly.com/users/diptodeep-biswas" target="_blank" rel="noopener noreferrer">
+    https://www.credly.com/users/diptodeep-biswas
+  </a>
+</p>
+
 <!-- Badges -->
-## Badges
+## 🎖️ Badges
 <a href="https://holopin.io/@zapdev360" target="_blank" rel="noopener noreferrer">
     <img src="https://holopin.me/zapdev360" alt="An image of @zapdev360's Holopin badges, which is a link to view their full Holopin profile" width="800" height="250">
 </a>
