@@ -49,15 +49,6 @@ class Developer:
 
 <hr>
 
-<!-- Stats -->
-## 📊 Statistics
-<div>
-      <img width="410px" height="170px" src="https://github-readme-stats.vercel.app/api?username=zapdev360&show_icons=true&theme=react&hide_border=true" />
-    <img width="375px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapdev360&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" />
-</div>
-
-<hr>
-
 <!-- Certifications -->
 ## 🎓 Certifications
 
@@ -105,6 +96,15 @@ class Developer:
 <a href="https://holopin.io/@zapdev360" target="_blank" rel="noopener noreferrer">
     <img src="https://holopin.me/zapdev360" alt="An image of @zapdev360's Holopin badges, which is a link to view their full Holopin profile" width="800" height="250">
 </a>
+
+<hr>
+
+<!-- Statistics -->
+## 📊 Statistics
+<div>
+      <img width="410px" height="170px" src="https://github-readme-stats.vercel.app/api?username=zapdev360&show_icons=true&theme=react&hide_border=true" />
+    <img width="375px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapdev360&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" />
+</div>
 
 <hr>
 
