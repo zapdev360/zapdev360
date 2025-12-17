@@ -98,6 +98,8 @@ class Developer:
   </a>
 </p>
 
+<hr>
+
 <!-- Badges -->
 ## 🎖️ Badges
 <a href="https://holopin.io/@zapdev360" target="_blank" rel="noopener noreferrer">
