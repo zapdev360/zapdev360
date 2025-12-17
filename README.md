@@ -40,7 +40,7 @@ class Developer:
     def __init__(self):
         self.name = "Diptodeep Biswas"
         self.location = "India"
-        self.focus = ["backend", "security", "cloud fundamentals"]
+        self.focus = ["Backend", "Security", "Cloud Fundamentals"]
         self.languages = ["Python", "C", "JavaScript"]
         self.backend = ["Node.js"]
         self.databases = ["MySQL", "MongoDB"]
@@ -52,8 +52,8 @@ class Developer:
 <!-- Stats -->
 ## Stats
 <div>
-      <img width="420px" height="170px" src="https://github-readme-stats.vercel.app/api?username=zapdev360&show_icons=true&theme=react&hide_border=true" />
-    <img width="440px" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=zapdev360&theme=react&hide_border=true" />
+      <img width="410px" height="170px" src="https://github-readme-stats.vercel.app/api?username=zapdev360&show_icons=true&theme=react&hide_border=true" />
+    <img width="375px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapdev360&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" />
 </div>
 
 <hr>
