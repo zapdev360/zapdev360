@@ -99,15 +99,6 @@ class Developer:
 
 <hr>
 
-<!-- Statistics -->
-## 📊 Statistics
-<div>
-      <img width="410px" height="170px" src="https://github-readme-stats.vercel.app/api?username=zapdev360&show_icons=true&theme=react&hide_border=true" />
-    <img width="375px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapdev360&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" />
-</div>
-
-<hr>
-
 <!-- Snake Animation -->
 
 ![Snake animation](https://raw.githubusercontent.com/zapdev360/zapdev360/output/github-contribution-grid-snake-dark.svg)
